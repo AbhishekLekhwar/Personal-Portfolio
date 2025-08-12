@@ -58,7 +58,7 @@ const AnimatedButton = () => {
   const [isHovered, setIsHovered] = useState(false);
 
   useEffect(() => {
-    const timer = setTimeout(() => setIsVisible(true), 2500);
+    const timer = setTimeout(() => setIsVisible(true), 1000);
     return () => clearTimeout(timer);
   }, []);
 
@@ -74,7 +74,7 @@ const AnimatedButton = () => {
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
       style={{
-        transitionDelay: isVisible ? '2500ms' : '0ms'
+        transitionDelay: isVisible ? '1500ms' : '0ms'
       }}
     >
       Contact me

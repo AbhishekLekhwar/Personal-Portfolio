@@ -43,7 +43,7 @@ body {
         sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background: linear-gradient(-45deg, #223174 0%, #764ba2 25%, #ca31db 50%, #16181a 75%, #00f2fe 100%);
+    background: linear-gradient(-45deg, #1a296d 0%, #461e6d 25%, #911c9e 50%, #16181a 75%, #00f2fe 100%);
     background-size: 400% 400%;
     animation: gradientShift 12s ease infinite;
     min-height: 100vh;
