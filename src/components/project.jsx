@@ -15,7 +15,7 @@ const project = () => {
                         <div className="uppercase tracking-wide to-indigo-500 
                         font-semibold text-md text-white ">TO-DO ALERT</div>
                         <div className="text-white">HTML,Tailwind CSS , React JS </div>
-                            <a target="_blank" href="https://to-do-flax-gamma.vercel.app/" className="text-slate-300 p-1 rounded-2xl px-2 flex gap-1 items-center text-sm"> View Project <IoArrowForward size={20} className="mt-1"/></a>
+                            <a target="_blank" href="https://to-do-pro-sooty.vercel.app/" className="text-slate-300 p-1 rounded-2xl px-2 flex gap-1 items-center text-sm"> View Project <IoArrowForward size={20} className="mt-1"/></a>
                         <p className="mt-2 ">TO-Do Alert Project not a simple to-do list webpage,because in this project i add some additional feature sach as reminder alarm,add task,delete task,update task,view task.In this project we can set reminder againgst date and time and also we can set alarm for reminder.</p>
                     </div>
                 </div>
@@ -28,7 +28,7 @@ const project = () => {
                         font-semibold text-md text-white">Chat-App</div>
                        <div className="text-white">HTML,Tailwind CSS , React JS </div>
                             <a target="_blank" href="https://github.com/AbhishekLekhwar/Chat-App.git" className="text-slate-300 p-1 rounded-2xl px-2 flex gap-1 items-center text-sm"> View Project <IoArrowForward size={20} className="mt-1"/></a>
-                        <p className="mt-2 ">TO-Do Alert Project not a simple to-do list webpage,because in this project i add some additional feature sach as reminder alarm,add task,delete task,update task,view task.In this project we can set reminder againgst date and time and also we can set alarm for reminder.</p>
+                        <p className="mt-2 ">Work in progress.</p>
                     </div>
                 </div>
                 </div>
@@ -43,7 +43,7 @@ const project = () => {
                         font-semibold text-md text-white">Password Manager</div>
                         <div className="text-white">HTML,Tailwind CSS , React JS </div>
                             <a target="_blank" href="https://passcode-indol.vercel.app/" className="text-slate-300 p-1 rounded-2xl px-2 flex gap-1 items-center text-sm"> View Project <IoArrowForward size={20} className="mt-1"/></a>
-                         <p className="mt-2 ">TO-Do Alert Project not a simple to-do list webpage,because in this project i add some additional feature sach as reminder alarm,add task,delete task,update task,view task.In this project we can set reminder againgst date and time and also we can set alarm for reminder.</p>
+                         <p className="mt-2 ">Secure storage of your passwords.</p>
                     </div>
                 </div>
                 </div>
@@ -54,8 +54,8 @@ const project = () => {
                         <div className="uppercase tracking-wide to-indigo-500 
                         font-semibold text-md text-white">PahadiStay</div>
                        <div className="text-white">HTML,Tailwind CSS , React JS </div>
-                            <a target="_blank" href="https://github.com/AbhishekLekhwar/passcode.git" className="text-slate-300 p-1 rounded-2xl px-2 flex gap-1 items-center text-sm"> View Project <IoArrowForward size={20} className="mt-1"/></a>
-                        <p className="mt-2 ">TO-Do Alert Project not a simple to-do list webpage,because in this project i add some additional feature sach as reminder alarm,add task,delete task,update task,view task.In this project we can set reminder againgst date and time and also we can set alarm for reminder.</p>
+                            <a target="_blank" href="https://pahadi-home-stay.vercel.app/" className="text-slate-300 p-1 rounded-2xl px-2 flex gap-1 items-center text-sm"> View Project <IoArrowForward size={20} className="mt-1"/></a>
+                        <p className="mt-2 ">Discover the beauty of Uttarakhand with our curated collection of authentic homestays. Experience local culture, warm hospitality, and breathtaking landscapes.</p>
                     </div>
                 </div>
                 </div>
