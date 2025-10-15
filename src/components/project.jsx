@@ -25,10 +25,10 @@ const project = () => {
                 <div className="md:flex "> 
                     <div className="p-8"> 
                         <div className="uppercase tracking-wide to-indigo-500 
-                        font-semibold text-md text-white">Chat-App</div>
-                       <div className="text-white">HTML,Tailwind CSS , React JS </div>
-                            <a target="_blank" href="https://github.com/AbhishekLekhwar/Chat-App.git" className="text-slate-300 p-1 rounded-2xl px-2 flex gap-1 items-center text-sm"> View Project <IoArrowForward size={20} className="mt-1"/></a>
-                        <p className="mt-2 ">Work in progress.</p>
+                        font-semibold text-md text-white">AI Integrated News App</div>
+                       <div className="text-white">HTML, CSS , React JS </div>
+                            <a target="_blank" href="https://github.com/AbhishekLekhwar/AI-Integrated-News-App.git" className="text-slate-300 p-1 rounded-2xl px-2 flex gap-1 items-center text-sm"> View Project <IoArrowForward size={20} className="mt-1"/></a>
+                        <p className="mt-2 ">AI-Integrated News App – Developed a dynamic news application that fetches real-time news via API calls and leverages AI to generate concise summaries for each article. Integrated text-to-speech functionality to convert news content into audio for an enhanced user experience. Implemented smooth UI/UX for browsing and listening to news efficiently. Built using modern web technologies and AI APIs.</p>
                     </div>
                 </div>
                 </div>
@@ -43,7 +43,7 @@ const project = () => {
                         font-semibold text-md text-white">Password Manager</div>
                         <div className="text-white">HTML,Tailwind CSS , React JS </div>
                             <a target="_blank" href="https://passcode-indol.vercel.app/" className="text-slate-300 p-1 rounded-2xl px-2 flex gap-1 items-center text-sm"> View Project <IoArrowForward size={20} className="mt-1"/></a>
-                         <p className="mt-2 ">Secure storage of your passwords.</p>
+                         <p className="mt-2 ">Password Manager — A secure web application that stores and manages user passwords using encryption. Includes features like user authentication, password strength meter, dark mode, and protected routes. Built with a focus on data security and modern UI/UX for a seamless password management experience.</p>
                     </div>
                 </div>
                 </div>
